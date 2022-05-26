@@ -17,6 +17,8 @@
 		411BC5EC283CE3E20096F205 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 411BC5C2283CE3DF0096F205 /* ContentView.swift */; };
 		411BC5ED283CE3E20096F205 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 411BC5C3283CE3E10096F205 /* Assets.xcassets */; };
 		411BC5EE283CE3E20096F205 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 411BC5C3283CE3E10096F205 /* Assets.xcassets */; };
+		411BC5FE283E33B90096F205 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 411BC5FD283E33B90096F205 /* start.txt */; };
+		411BC5FF283E33B90096F205 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 411BC5FD283E33B90096F205 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		411BC5E1283CE3E20096F205 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		411BC5E5283CE3E20096F205 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		411BC5E7283CE3E20096F205 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		411BC5FD283E33B90096F205 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		41AE72CC283F737400A5B528 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,8 @@
 			children = (
 				411BC5C1283CE3DF0096F205 /* WordScrambleApp.swift */,
 				411BC5C2283CE3DF0096F205 /* ContentView.swift */,
+				41AE72CC283F737400A5B528 /* README.md */,
+				411BC5FD283E33B90096F205 /* start.txt */,
 				411BC5C3283CE3E10096F205 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -267,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				411BC5ED283CE3E20096F205 /* Assets.xcassets in Resources */,
+				411BC5FE283E33B90096F205 /* start.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				411BC5EE283CE3E20096F205 /* Assets.xcassets in Resources */,
+				411BC5FF283E33B90096F205 /* start.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
