@@ -1,4 +1,3 @@
 #  Word Scramble
 
-
-![alt text](Shared/Video/demo.mov)
+<video src='Shared/Video/demo.mov' width=180/>
