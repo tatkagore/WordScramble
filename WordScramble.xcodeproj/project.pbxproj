@@ -52,7 +52,6 @@
 		411BC5E5283CE3E20096F205 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		411BC5E7283CE3E20096F205 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
 		411BC5FD283E33B90096F205 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
-		41AE72CC283F737400A5B528 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +102,6 @@
 			children = (
 				411BC5C1283CE3DF0096F205 /* WordScrambleApp.swift */,
 				411BC5C2283CE3DF0096F205 /* ContentView.swift */,
-				41AE72CC283F737400A5B528 /* README.md */,
 				411BC5FD283E33B90096F205 /* start.txt */,
 				411BC5C3283CE3E10096F205 /* Assets.xcassets */,
 			);
